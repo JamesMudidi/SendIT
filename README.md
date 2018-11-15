@@ -11,7 +11,7 @@ SendIT is a courier service that helps users deliver parcels to different destin
 
 # Demo:
 Hosted on Gh-pages via the link below:
-https://jamesmudidi.github.io/SendIT/
+SendIT
 
 # Built With:
 HTML
