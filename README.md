@@ -10,7 +10,7 @@ SendIT is a courier service that helps users deliver parcels to different destin
 6. Admin can change the status and present location of a parcel delivery order.
 
 # Demo:
-Hosted on Gh-pages via the link below
+Hosted on Gh-pages via the link below:
 https://jamesmudidi.github.io/SendIT/
 
 # Built With:
